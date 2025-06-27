@@ -1,0 +1,9 @@
+umpy
+pandas
+tables
+rasterio
+matplotlib
+shapely
+alphashape
+scipy
+geopandas

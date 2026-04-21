@@ -183,5 +183,4 @@ cython_debug/
 # Project data files (DTM rasters, HDF5 datasets, generated outputs)
 *.tif
 *.tiff
-*.h5
 *.hdf5

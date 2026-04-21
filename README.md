@@ -83,7 +83,6 @@ Example output figures are included under `results/` so you can preview the expe
 The input data files are hosted on Google Drive because they exceed GitHub's file-size limit. Download both files and place them inside the `data/` folder:
 
 - [Download DTM GeoTIFF](https://drive.google.com/file/d/1pVoRnMPMzOfYJFvHJnhJdQU6-Gryr4I_/view) → save as `data/dtm_region.tif`
-- [Download EM HDF5 data](PASTE_EM_DATA_DRIVE_LINK_HERE) → save as `data/em_data.h5`
 
 ---
 

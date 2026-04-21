@@ -139,7 +139,7 @@ HDF5 file (key = `"data"`) containing the filtered EM points with an added `DIST
 2. Create a feature branch (`git checkout -b feature/xyz`).
 3. Commit your changes (`git commit -m "Add xyz"`).
 4. Push to your branch (`git push origin feature/xyz`).
-5. Open a Pull Request.κκ
+5. Open a Pull Request.
 
 ---
 

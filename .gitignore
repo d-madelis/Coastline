@@ -185,4 +185,3 @@ cython_debug/
 *.tiff
 *.h5
 *.hdf5
-*.png
